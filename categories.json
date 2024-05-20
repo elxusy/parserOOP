@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"name": "Видеокарты",
+			"url": "https://www.mvideo.ru/komputernye-komplektuushhie-5427/videokarty-5429?f_tolko-v-nalichii=da&f_skidka=da"
+		},
+		{
+			"name": "SSD накопители",
+			"url": "https://www.mvideo.ru/komputernye-komplektuushhie-5427/vnutrennie-ssd-nakopiteli-5436/f/tolko-v-nalichii=da/skidka=da"
+		},
+		{
+			"name": "Процессоры",
+			"url": "https://www.mvideo.ru/komputernye-komplektuushhie-5427/processory-5431?f_tolko-v-nalichii=da&f_skidka=da"
+		},
+		{
+			"name": "Материнские платы",
+			"url": "https://www.mvideo.ru/komputernye-komplektuushhie-5427/materinskie-platy-5432?f_tolko-v-nalichii=da&f_skidka=da"
+		},
+		{
+			"name": "Оперативная память",
+			"url": "https://www.mvideo.ru/komputernye-komplektuushhie-5427/operativnaya-pamyat-5433?f_category=operativnaya-pamyat-5442&f_tolko-v-nalichii=da&f_skidka=da"
+		},
+		{
+			"name": "Блоки питания",
+			"url": "https://www.mvideo.ru/komputernye-komplektuushhie-5427/bloki-pitaniya-5435?f_category=bloki-pitaniya-5444&f_skidka=da&f_tolko-v-nalichii=da"
+		},
+		{
+			"name": "Корпуса",
+			"url": "https://www.mvideo.ru/komputernye-komplektuushhie-5427/korpusa-5434?f_category=korpusa-5443&f_skidka=da&f_tolko-v-nalichii=da"
+		}
+	]
+}

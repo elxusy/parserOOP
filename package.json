@@ -1,0 +1,17 @@
+{
+	"name": "mvideo_parser",
+	"version": "1.0.0",
+	"main": "index.ts",
+	"type": "module",
+	"scripts": {
+		"start": "npx tsx  index.ts"
+	},
+	"devDependencies": {
+		"@types/puppeteer": "^7.0.4",
+		"typescript": "^5.4.5"
+	},
+	"dependencies": {
+		"puppeteer": "^22.6.5",
+		"yarn": "^1.22.22"
+	}
+}
