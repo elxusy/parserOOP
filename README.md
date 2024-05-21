@@ -1,3 +1,8 @@
+Файл Scraper.ts - в ПЗ 2.1
+Файл constants.ts - в ПЗ 2.2
+Файл types.ts - в ПЗ 2.3
+Файл index.ts - в ПЗ 2.4
+Файл index.js; styles.css; script.js - в ПЗ 2.5
 
 ```Bash, PowerShell
 yarn
